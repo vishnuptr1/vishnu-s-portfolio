@@ -8,15 +8,21 @@ This data set contains 583 liver patient records , 281 non liver patient reccord
 This dataset contains information about tweets made by Elon Musk in 2022, including, besides the tweets, its number of likes, retweets and creation date.
 
 Tweets: original text of the tweet.
+
 Retweets: number of retweets of the current tweet.
+
 Likes: number of likes of the current tweet.
+
 Date: date of creation of the tweet.
+
 Cleaned_tweets: text of the tweet after removing 'RT', hashtags, hyperlinks, mentions, emojis, leading and trailing whitespaces.
 
 This dataset it's perfect for:
 
 Perform a sentiment analysis based on the text of the tweets.
+
 Analyze how often Elon Musk posts throughout the year.
+
 Find out how he feels about certain topics through his tweet
 
 # [Project 3: Yahoo Finance Web Scrapping](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
