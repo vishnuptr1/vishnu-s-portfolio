@@ -1,17 +1,6 @@
-# [Project 1: Movie Recommendation System Model](https://github.com/RonitMalik/Movie-Recommendation-System-)
+# [Project 1: Liver Disease Prediction](https://github.com/vishnuptr1/Liver-Disease-Prediction.git)
 
-This is a project I did for my masters research paper, where I build a recommendation system for a movies dataset.
-
-* Data was taken from the movielens dataset 
-* The model uses both; content-based filtering techniques and collaborative filtering techniques. 
-* Algorithms Used : K-Nearest Neightbours, TF-IDFS, Singular Value Decomposition Model (SVD), Alternatining least Square (ALS) 
-* Optimised the SVD & ALS model. 
-* The Project Write-up is published on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791837)
-
-## Overview Of The Singular Value Decomposition Architecture  
-![](Images/Picture%201.png) 
-## Popular Movie Genres  
-![](Images/Picture%202.png)
+This data set contains 583 liver patient records , 281 non liver patient reccord and 118 liver patinet record. In the dataset the coloumn named Output is used to divide groups into liver patient (liver disease) or not (no disease). This data set contains 430 male patient records and 140 female patient records
 
 
 # [Project 2: Amazon Price Scrapper](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
