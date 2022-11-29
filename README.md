@@ -17,7 +17,7 @@ Date: date of creation of the tweet.
 
 Cleaned_tweets: text of the tweet after removing 'RT', hashtags, hyperlinks, mentions, emojis, leading and trailing whitespaces.
 
-This dataset it's perfect for:
+ 	**This dataset it's perfect for:	**
 
 Perform a sentiment analysis based on the text of the tweets.
 
