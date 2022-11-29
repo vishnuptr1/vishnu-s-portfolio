@@ -17,13 +17,13 @@ Date: date of creation of the tweet.
 
 Cleaned_tweets: text of the tweet after removing 'RT', hashtags, hyperlinks, mentions, emojis, leading and trailing whitespaces.
 
- 	**This dataset it's perfect for:	**
+ 	**This dataset it's perfect for:**
 
-Perform a sentiment analysis based on the text of the tweets.
+-Perform a sentiment analysis based on the text of the tweets.
 
-Analyze how often Elon Musk posts throughout the year.
+-Analyze how often Elon Musk posts throughout the year.
 
-Find out how he feels about certain topics through his tweet
+-Find out how he feels about certain topics through his tweet
 
 # [Project 3: Yahoo Finance Web Scrapping](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
 
