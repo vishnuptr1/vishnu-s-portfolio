@@ -15,7 +15,7 @@ This dataset contains information about tweets made by Elon Musk in 2022, includ
 
 -Find out how he feels about certain topics through his tweet
 
-# [Project 3: Run or Walk Predcition ](https://github.com/vishnuptr1/walkrun.git)
+# [Project 3: Run or Walk prediction ](https://github.com/vishnuptr1/walkrun.git)
 
 This dataset is used to identify whether a user is walking or running using accelerometr and gyroscope data
 This data set contains 88588 user records and 8 coloumns, 44365 running and 44223 walking record. In the dataset the coloumn named Activity is used to divide groups into walking or running.
