@@ -7,16 +7,6 @@ This data set contains 583 liver patient records , 281 non liver patient reccord
 
 This dataset contains information about tweets made by Elon Musk in 2022, including, besides the tweets, its number of likes, retweets and creation date.
 
-Tweets: original text of the tweet.
-
-Retweets: number of retweets of the current tweet.
-
-Likes: number of likes of the current tweet.
-
-Date: date of creation of the tweet.
-
-Cleaned_tweets: text of the tweet after removing 'RT', hashtags, hyperlinks, mentions, emojis, leading and trailing whitespaces.
-
  	**This dataset it's perfect for:**
 
 -Perform a sentiment analysis based on the text of the tweets.
@@ -25,8 +15,8 @@ Cleaned_tweets: text of the tweet after removing 'RT', hashtags, hyperlinks, men
 
 -Find out how he feels about certain topics through his tweet
 
-# [Project 3: Yahoo Finance Web Scrapping](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
+# [Project 3: Run or Walk Predcition ](https://github.com/vishnuptr1/walkrun.git)
 
-This project was part of my youtube channel where i build a yahoo finance web-scrapper to get stock prices from yahoo finance, I used the Yahoo_fin package to get the prices for various stock prices and ran further trend analysis. The main goal of this project was to explore the yahoo_fin package. 
+This dataset is used to identify whether a user is walking or running using accelerometr and gyroscope data
+This data set contains 88588 user records and 8 coloumns, 44365 running and 44223 walking record. In the dataset the coloumn named Activity is used to divide groups into walking or running.
 
-The following video for this project can be found on my [Youtube Channel](https://www.youtube.com/watch?v=AsxpHMq2auc&t=656s)
