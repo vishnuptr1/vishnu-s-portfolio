@@ -20,3 +20,8 @@ This dataset contains information about tweets made by Elon Musk in 2022, includ
 This dataset is used to identify whether a user is walking or running using accelerometr and gyroscope data
 This data set contains 88588 user records and 8 coloumns, 44365 running and 44223 walking record. In the dataset the coloumn named Activity is used to divide groups into walking or running.
 
+
+# [Project 4: Heart Attack prediction ](https://github.com/vishnuptr1/Heart-Attack-Prediction.git)
+
+ This dataset is used to predict whether a patient will have heart attack.The dataset contains 303 rows and 14 coloumns.There are  165 people having high chance of heart attack compared to 138 people having less chance .
+
